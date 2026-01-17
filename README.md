@@ -6,6 +6,8 @@
 2 page : top et trads 
 <img width="807" height="442" alt="image" src="https://github.com/user-attachments/assets/76d42b53-21de-4d09-9c84-65ddd565ad07" />
 
+
+
 page 3 :vendeur 
 <img width="807" height="448" alt="image" src="https://github.com/user-attachments/assets/738cbef8-e204-4c40-aa5f-f0cf56d943b8" />
 
