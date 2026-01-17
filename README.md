@@ -1,10 +1,9 @@
 # sales_raport
 
-1 paege :
-vue globale
+1 paege : vue globale
 <img width="809" height="452" alt="image" src="https://github.com/user-attachments/assets/d857e571-a48a-49ec-a224-91fa59c0819f" />
-2 page :
-top et trads 
+
+2 page : top et trads 
 <img width="807" height="442" alt="image" src="https://github.com/user-attachments/assets/76d42b53-21de-4d09-9c84-65ddd565ad07" />
 page 3 :
 vendeur 
